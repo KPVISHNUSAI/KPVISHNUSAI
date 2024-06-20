@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KP VISHNU SAI</h1>
-<h3 align="center">Passionate CS student at SRM University | Coding, Data Analysis | Future Full Stack Dev & Data Analyst | Turning Ideas to Tech Reality!</h3>
+<h3 align="center">Passionate CS student at SRM University | Full Stack, Data Analysis | Turning Ideas to Tech Reality!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpvishnusai&label=Profile%20views&color=0e75b6&style=flat" alt="kpvishnusai" /> </p>
 
