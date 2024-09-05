@@ -1,5 +1,5 @@
 # 💫 About Me:
-KP. VishnuSai is an aspiring full-stack developer and cloud enthusiast from India. Turning ideas into reality is his aim.
+KP. VishnuSai is an aspiring full-stack developer and cloud & ML enthusiast from India. Turning ideas into reality is my aim.
 
 
 ## 🌐 Socials:
