@@ -1,4 +1,4 @@
-![Header](https://github.com/KPVISHNUSAI/KPVISHNUSAI/blob/main/github-header-image.png)
+# **Hi! I am Vishnu, a full-stack developer and cloud enthusiast.**
 
 
 ## 🌐 Socials:
