@@ -68,29 +68,63 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
-### 🚀 AWS CI/CD Pipeline Maestro
-<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250"/>
+<div align="center">
 
-- Automated build-test-deploy pipeline
-- Infrastructure as Code with CloudFormation
-- Integrated monitoring with CloudWatch
-- Enhanced security with IAM roles
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 AWS CI/CD Pipeline Maestro</h3>
+<p align="center">
+<a href="https://github.com/KPVISHNUSAI" target="_blank"><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/08/ci-cd.gif" width="100%" alt="AWS Pipeline"/></a>
+</p>
+<p>
+• Automated build-test-deploy pipeline with CodePipeline<br>
+• Infrastructure as Code with CloudFormation<br>
+• Integrated monitoring with CloudWatch<br>
+• Enhanced security with IAM roles
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🛠️ Go-Powered Product Management</h3>
+<p align="center">
+<a href="https://github.com/KPVISHNUSAI" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:679/1*VJLYgGA5VjgF1e5OgBtTcw.gif" width="100%" alt="Product Management"/></a>
+</p>
+<p>
+• Scalable system with Gin Framework & PostgreSQL<br>
+• Asynchronous image processing with RabbitMQ<br>
+• Redis caching optimization<br>
+• Comprehensive testing suite
+</p>
+</td>
+</tr>
 
-### 🛠️ Go-Powered Product Management
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250"/>
+<tr>
+<td width="50%">
+<h3 align="center">🌐 Django REST Store</h3>
+<p align="center">
+<a href="https://github.com/KPVISHNUSAI" target="_blank"><img src="https://cdn.dribbble.com/users/1626229/screenshots/8854249/media/e66d5405962e9444ca9e72f697dd0611.gif" width="100%" alt="Django Store"/></a>
+</p>
+<p>
+• Full-stack e-commerce platform with React & Redux<br>
+• JWT authentication & role-based access control<br>
+• Real-time inventory tracking system<br>
+• RESTful API architecture
+</p>
+</td>
+<td width="50%">
+<h3 align="center">📱 More Projects Coming Soon!</h3>
+<p align="center">
+<a href="https://github.com/KPVISHNUSAI" target="_blank"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="100%" alt="Coming Soon"/></a>
+</p>
+<p align="center">
+Stay tuned for more exciting projects!<br>
+Check out my GitHub for updates.
+</p>
+</td>
+</tr>
+</table>
 
-- Scalable system with Gin Framework
-- Asynchronous image processing
-- Redis caching optimization
-- Comprehensive testing suite
-
-### 🌐 Django REST Store
-<img align="right" src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="250"/>
-
-- Full-stack e-commerce platform
-- JWT authentication system
-- Real-time inventory tracking
-- RESTful API architecture
+</div>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
