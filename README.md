@@ -28,7 +28,7 @@
 🔹 Implemented MVVM architecture  
 🔹 Mastered Agile methodologies  
 
-### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"> Research & Development @ Samsung PRISM
+### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"> Research & Development Intern @ Samsung R&D Institute
 🔹 Built AI/ML pattern recognition engine  
 🔹 Developed automated inference systems  
 🔹 Awarded Certificate of Excellence  
