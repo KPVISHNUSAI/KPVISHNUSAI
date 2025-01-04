@@ -19,7 +19,7 @@
 > 🎓 B.Tech CSE student at SRM Institute (CGPA: 9.11/10)  
 > 💻 Passionate about building scalable applications  
 > 🌱 Currently exploring Cloud Architecture and ML  
-> ⚡ Fun fact: I debug with coffee and good music! 
+> ⚡ Fun fact: I debug with coffee and good music!
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Professional Experience
 
