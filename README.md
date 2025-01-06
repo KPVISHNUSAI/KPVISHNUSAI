@@ -24,16 +24,16 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Professional Experience
 
 ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> Fullstack App Development @ Infosys
-🔹 Full stack iOS App 'SWAST' hospital automation project  
-🔹 Contributed to backend and frontend development, switching roles each sprint to enhance collaboration.
-🔹 Implemented MVVM architecture  
-🔹 Gained experience in Agile Scrum methodologies, participating in daily Scrum meetings.
+- Full stack iOS App 'SWAST' hospital automation project
+- Contributed to backend and frontend development, switching roles each sprint to enhance collaboration
+- Implemented MVVM architecture
+- Gained experience in Agile Scrum methodologies, participating in daily Scrum meetings 
 
 ### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"> Research & Development Intern @ Samsung R&D Institute
-🔹 Developed AIML engine for dynamic pattern recognition and rule recommendation.
-🔹 Analyzed Android runtime logs with machine learning to identify patterns.
-🔹 Created automated inference rules for new datasets based on identified patterns.
-🔹 Awarded Certificate of Excellence  
+- Developed AIML engine for dynamic pattern recognition and rule recommendation.
+- Analyzed Android runtime logs with machine learning to identify patterns.
+- Created automated inference rules for new datasets based on identified patterns.
+- Awarded Certificate of Excellence.
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 
