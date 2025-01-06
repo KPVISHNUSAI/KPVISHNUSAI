@@ -138,14 +138,20 @@ Check out my GitHub for updates.
 <table>
 <tr>
 <td>
-
+  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KPVISHNUSAI&theme=tokyonight&hide_border=true)
 
 </td>
+  
 <td>
-
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KPVISHNUSAI&theme=tokyonight&hide_border=true&layout=compact)
 
+</td>
+<td>
+  
+  ![VISHNUSAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=KPVISHNUSAI&show_icons=true&theme=radical)
+  
 </td>
 </tr>
 </table>
