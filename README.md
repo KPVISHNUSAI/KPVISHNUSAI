@@ -1,4 +1,4 @@
-# Hi there, I'm K.P.Vishnu Sai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Hi there, I'm K.P.Vishnu Sai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
 <div align="center">
   
